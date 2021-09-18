@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Quantum Computing (2017-2021)"
+title: "Introduction to Quantum Computing (2018-2021)"
 collection: teaching
 type: "Masters course"
 permalink: /teaching/introduction_to_qc
