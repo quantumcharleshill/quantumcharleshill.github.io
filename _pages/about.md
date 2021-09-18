@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in quantum computing and quantum information currently a senior lecturer in quantum computing at the University of Melbourne in a joint position between the Physics and Mathematics and Statistics departments.
+I am a senior lecturer in quantum computing and quantum information at the University of Melbourne in the [School of Physics](https://physics.unimelb.edu.au/) and [School of Mathematics and Statistics](https://ms.unimelb.edu.au/).
 
-I teach the masters courses "Introduction to Quantum Computing" (MULT90063), and jointly "Quantum Software Fundamentals" (COMP90084), as well as the second year course "Elements of Quantum Computing" (MULT20016).
+I teach the masters courses [Introduction to Quantum Computing](https://handbook.unimelb.edu.au/2021/subjects/mult90063), and jointly [Quantum Software Fundamentals](https://handbook.unimelb.edu.au/subjects/comp90084), as well as the second year course [Elements of Quantum Computing](https://handbook.unimelb.edu.au/2021/subjects/mult20015).
 
