@@ -22,6 +22,13 @@ Work Experience
 * **2006 - 2008**	*Postdoctoral researcher* at University of Liverpool (UK)
 * **2000 – 2002**	*Software developer* for Aspect Computing, primarily developing the Hansard Production System (HPS) at Australian Parliament House, Canberra.
 
+Education
+======
+
+* **1996 - 1999**	*Bachelor of Science (First Class Honours in Physics)* at Australian National University (Canberra, Australia)
+* **2002 – 2006**	*PhD at University of Queensland (Brisbane, Australia)*. 
+	Thesis title: “Gates, Algorithms, and Error Correction for the Kane Quantum Computer” under Hsi-Sheng Goan and Gerard Milburn.
+
 Professional Leadership
 ======
 
@@ -32,7 +39,7 @@ Professional Leadership
 * **2019-current:** Organiser of IBM Quantum Seminars at the University of Melbourne
 * **2020-current:** Academic Disciplinary Committee for physics
 * **2008-current:** Organiser of quantum paper reading group, The University of Melbourne
-* **2008-current:** Supervisor for PhDs and Masters students 
+* **2008-current:** Supervisor for PhDs and Masters students
 
 Lecturing and Course Development
 ======
@@ -41,11 +48,6 @@ Lecturing and Course Development
 * [Elements of Quantum Computing](https://quantumcharleshill.github.io/teaching/elements_of_qc) (2020- )
 * [Quantum Software Fundamentals](https://quantumcharleshill.github.io/teaching/quantum_software_fundamentals) (2021- )
  
-Education
-======
-* **1996 - 1999**	*Bachelor of Science (First Class Honours in Physics)* at Australian National University (Canberra, Australia)
-* **2002 – 2006**	*PhD at University of Queensland (Brisbane, Australia)*. 
-	Thesis title: “Gates, Algorithms, and Error Correction for the Kane Quantum Computer” under Hsi-Sheng Goan and Gerard Milburn.
 
 Publications
 ======
