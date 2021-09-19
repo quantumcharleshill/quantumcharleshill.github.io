@@ -191,9 +191,9 @@ Publications
 Internationally Recognised Patents
 =====
 
-* Hill, CD, Hollenberg, LCL, Fuechsle, M, Hile, SJ, House, MG, Peretz, E, Rogge, S & Simmons, MY
-* 2016, 'Apparatus and method for quantum processing', US Patent App. 14/931,768
-Hill, CD, Hollenberg, LCL, Simmons, MY, Peretz, E, Rogge, S, Fuechsle, M & Hile, SJ 2016,
+* Hill, CD, Hollenberg, LCL, Fuechsle, M, Hile, SJ, House, MG, Peretz, E, Rogge, S & Simmons, MY 2016, 'Apparatus and method for quantum processing', US Patent App. 14/931,768
+
+* Hill, CD, Hollenberg, LCL, Simmons, MY, Peretz, E, Rogge, S, Fuechsle, M & Hile, SJ 2016,
 'Apparatus and method for quantum processing', US Patent App. 14/931,738
 
 
