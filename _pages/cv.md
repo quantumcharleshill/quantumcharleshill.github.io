@@ -19,7 +19,7 @@ Work Experience
 * **2019 - 2021** *Lecturer*, School of Physics & School of Mathematics and Statistics, The University of Melbourne
 * **2011 - 2019**	*Research Fellow* at University of Melbourne (Australia) as part of the Centre for Quantum Computation and Communication Technology
 * **2008 - 2010**	*Research Fellow* at University of Melbourne (Australia) as part of the Centre for Quantum Computer Technology (CQCT) 
-* **2006 - 2007**	*Postdoctoral researcher* at University of Liverpool (UK)
+* **2006 - 2008**	*Postdoctoral researcher* at University of Liverpool (UK)
 * **2000 – 2002**	*Software developer* for Aspect Computing, primarily developing the Hansard Production System (HPS) at Australian Parliament House, Canberra.
 
 Professional Leadership
@@ -34,12 +34,9 @@ Professional Leadership
 * **2008-current:** Organiser of quantum paper reading group, The University of Melbourne
 * **2008-current:** Supervisor for PhDs and Masters students 
 
-
-Teaching
+Lecturing and Course Development
 ======
   <ul>{% for post in site.teaching %}{% include archive-single-cv.html %}{% endfor %}</ul>
-  
-<br/>
 
 Education
 ======
