@@ -29,6 +29,7 @@ Education
 * **2002 – 2006**	*PhD at University of Queensland (Brisbane, Australia)*. 
 	Thesis title: “Gates, Algorithms, and Error Correction for the Kane Quantum Computer” under Hsi-Sheng Goan and Gerard Milburn.
 
+
 Professional Leadership
 ======
 
@@ -39,9 +40,13 @@ Professional Leadership
 * **2019-current:** Organiser of IBM Quantum Seminars at the University of Melbourne
 * **2020-current:** Academic Disciplinary Committee for physics
 * **2008-current:** Organiser of quantum paper reading group, The University of Melbourne
-* **2020-current:** Currently supervisor/co-supervisor for 21 PhDs and Masters students
-* **2006-2020** Supervisor/co-supervisor for over 20 successful PhD and Masters students, including assisting in projects from external institutions (including UNSW, ANU, Delft)
 
+
+Research student supervision
+=====
+
+* **2020-current:** Currently supervisor/co-supervisor for 21 PhD and masters students
+* **2006-2020** heavily involved in the supervision of over 20 successful masters and PhD students
 
 Lecturing and Course Development
 ======
