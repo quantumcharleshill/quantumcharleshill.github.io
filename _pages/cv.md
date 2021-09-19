@@ -44,6 +44,8 @@ Professional Leadership
 Lecturing and Course Development
 ======
 
+Dr Hill's extensive knowledge and experience quantum computing allowed him to design and develop material which forms the basis of three new cutting-edge subjects introduced into the university over the past four years.
+
 * [Introduction to Quantum Computing](https://quantumcharleshill.github.io/teaching/introduction_to_qc) (2018- )
 * [Elements of Quantum Computing](https://quantumcharleshill.github.io/teaching/elements_of_qc) (2020- )
 * [Quantum Software Fundamentals](https://quantumcharleshill.github.io/teaching/quantum_software_fundamentals) (2021- )
