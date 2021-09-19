@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a copy of my CV [here](/files/CV2021-online.pdf).
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -41,12 +43,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
