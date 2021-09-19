@@ -14,4 +14,4 @@ I am fascinated by open questions, and so am drawn in by quantum computing, whic
 
 I teach the masters courses [Introduction to Quantum Computing](https://handbook.unimelb.edu.au/2021/subjects/mult90063), and jointly [Quantum Software Fundamentals](https://handbook.unimelb.edu.au/subjects/comp90084), as well as the second-year course [Elements of Quantum Computing](https://handbook.unimelb.edu.au/2021/subjects/mult20015).
 
-Outside of work, I enjoy playing chess, bicycle-touring, orienteering, and travel.
+Outside of work, I enjoy playing chess, bicycle-touring, orienteering, and travel with my wife, Jas.
