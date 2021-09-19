@@ -39,7 +39,32 @@ Professional Leadership
 * **2019-current:** Organiser of IBM Quantum Seminars at the University of Melbourne
 * **2020-current:** Academic Disciplinary Committee for physics
 * **2008-current:** Organiser of quantum paper reading group, The University of Melbourne
-* **2008-current:** Supervisor for PhDs and Masters students
+* **2020-current:** Currently supervisor/co-supervisor for 21 PhDs and Masters students
+* **2006-2020** Supervisor/co-supervisor for over 20 successful PhD and Masters students, including assisting in projects from external institutions (including UNSW, ANU, Delft)
+
+External Consultancy
+=====
+
+* **2020-current** Consultancy for Ford Alliance project looking at quantum algorithms relevant to Ford Motor company.
+* **2021-current** Army research project looking at quantum algorithms for last-mile resupply.
+* **2021-current** Consultancy for Archer Materials, Australia
+* **2019-current** on-going international and local industry engagement as part of the Quantum Hub
+* **2018** consultant to the University of Melbourne on Quantum Error Correction Code software IP negotiations with Google.
+
+Current Research Grants
+=====
+
+* 2021, USAF-NRO Million-dollar quantum accelerator, Modi, Hill 
+
+* 2021-24, ARC Discovery Project, “Out-manoeuvring correlated noise in quantum
+computers”, Modi, Hill 
+
+* 2020-23, Ford Alliance Project, NISQ algorithms for traffic/route optimization problems,
+Hollenberg, Hill, Ghosh 
+
+* 2021, Hybrid HPC-quantum computing for last-mile resupply optimisation AQTED,
+Hollenberg, Hill, Usman, Myers, Smith-Miles
+
 
 Lecturing and Course Development
 ======
@@ -50,6 +75,13 @@ Dr Hill's extensive knowledge and experience quantum computing allowed him to de
 * [Elements of Quantum Computing](https://quantumcharleshill.github.io/teaching/elements_of_qc) (2020- )
 * [Quantum Software Fundamentals](https://quantumcharleshill.github.io/teaching/quantum_software_fundamentals) (2021- )
  
+Internationally Recognised Patents
+=====
+
+* Hill, CD, Hollenberg, LCL, Fuechsle, M, Hile, SJ, House, MG, Peretz, E, Rogge, S & Simmons, MY
+* 2016, 'Apparatus and method for quantum processing', US Patent App. 14/931,768
+Hill, CD, Hollenberg, LCL, Simmons, MY, Peretz, E, Rogge, S, Fuechsle, M & Hile, SJ 2016,
+'Apparatus and method for quantum processing', US Patent App. 14/931,738
 
 Publications
 ======
