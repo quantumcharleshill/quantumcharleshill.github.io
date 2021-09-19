@@ -8,4 +8,4 @@ date: 2018, 2019, 2020, 2021
 location: "Melbourne, Australia"
 ---
 
-This masters level course introduces students (of all different initial backgrounds and skill levels) to quantum computing. 
+This masters-level course introduces students (of all different initial backgrounds and skill levels) to quantum computing.
