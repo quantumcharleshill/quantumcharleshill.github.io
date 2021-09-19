@@ -9,25 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a copy of my CV [here](/files/CharlesHillCV.pdf).
+You can download a fuller copy of my CV [here](/files/CharlesHillCV.pdf).
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 1996 - 1999	Bachelor of Science (First Class Honours in Physics) at Australian National University (Canberra, Australia)
+* 2002 – 2006	PhD at University of Queensland (Brisbane, Australia). 
+	Thesis title: “Gates, Algorithms, and Error Correction for the Kane Quantum Computer” under Hsi-Sheng Goan and Gerard Milburn.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 – 2021 	Lecturer and Technical Lead, IBM Quantum Network Hub at the University of Melbourne 
+* 2011 - 2019	Postdoctoral researcher at University of Melbourne (Australia) as part of the Centre for Quantum Computation and Communication Technology
+* 2008 - 2010	Postdoctoral researcher at University of Melbourne (Australia) as part of the Centre for Quantum Computer Technology (CQCT) 
+* 2006 - 2007	Postdoctoral researcher at University of Liverpool (UK)
+* 2000 – 2002	Computer programmer for Aspect Computing, primarily developing the Hansard Production System (HPS) at Australian Parliament House, Canberra.
+
+
+
   
 Skills
 ======
