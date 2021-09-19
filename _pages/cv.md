@@ -28,18 +28,12 @@ Work experience
 
 
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
+
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -53,4 +47,24 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+2018-2021:
+   Establishment and Administering of IBM Quantum Hub at the University of Melbourne
+
+2020-2021:
+   Affiliate of Melbourne Centre for Data Science
+
+2020-2021:
+   Academic Disciplinary Committee for physics
+
+2008-2021: 
+  Organisation of quantum paper reading group
+
+2006-2021: 
+  Review for international journals and conferences in quantum information/computation
+
+2019-2021: 
+  Organiser of IBM Quantum Seminars at the University of Melbourne
+
+2019-2021: 
+  Founder and administrator Melbourne Quantum network
