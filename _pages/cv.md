@@ -29,7 +29,11 @@ Work experience
 
 Publications
 ======
+0. Gregory A. L. White, Felix A. Pollock, Lloyd C. L. Hollenberg, Charles D. Hill, Kavan Modi, "Diagnosing temporal quantum correlations: compressed non-Markovian calipers", https://arxiv.org/abs/2107.13934 (2021)
 
+0. Maiyuren Srikumar, Charles D. Hill, Lloyd C. L. Hollenberg, "Clustering and enhanced classification using a hybrid quantum autoencoder", https://arxiv.org/abs/2107.11988 (2021)
+
+0. Gregory A. L. White, Felix A. Pollock, Lloyd C. L. Hollenberg, Kavan Modi, Charles D. Hill, "Non-Markovian Quantum Process Tomography", https://arxiv.org/abs/2106.11722 (2021)
 1.	Heredge, J., Hill, C., Hollenberg, L. & Sevior, M. Quantum Support Vector Machines for Continuum Suppression in B Meson Decays. arXiv Prepr. arXiv2103.12257 (2021).
 2.	Mooney, G. J., White, G. A. L., Hill, C. D. & Hollenberg, L. C. L. Whole-device entanglement in a 65-qubit superconducting quantum computer. arXiv Prepr. arXiv2102.11521 (2021).
 3.	Mooney, G. J., White, G. A. L., Hill, C. D. & Hollenberg, L. C. L. Generation and verification of 27-qubit Greenberger-Horne-Zeilinger states in a superconducting quantum computer. arXiv Prepr. arXiv2101.08946 (2021).
