@@ -12,6 +12,13 @@ author_profile: true
 {% include base_path %}
 
 
+I have an h-index of 26 (September, 2021) and over 2,200 citations of my work.
+
+0. Gregory A. L. White, Felix A. Pollock, Lloyd C. L. Hollenberg, Charles D. Hill, Kavan Modi, "Diagnosing temporal quantum correlations: compressed non-Markovian calipers", https://arxiv.org/abs/2107.13934 (2021)
+
+0. Maiyuren Srikumar, Charles D. Hill, Lloyd C. L. Hollenberg, "Clustering and enhanced classification using a hybrid quantum autoencoder", https://arxiv.org/abs/2107.11988 (2021)
+
+0. Gregory A. L. White, Felix A. Pollock, Lloyd C. L. Hollenberg, Kavan Modi, Charles D. Hill, "Non-Markovian Quantum Process Tomography", https://arxiv.org/abs/2106.11722 (2021)
 
 1.	Heredge, J., Hill, C., Hollenberg, L. & Sevior, M. Quantum Support Vector Machines for Continuum Suppression in B Meson Decays. arXiv Prepr. arXiv2103.12257 (2021).
 
@@ -138,3 +145,12 @@ author_profile: true
 62.	Hill, C. D. & Goan, H.-S. Gates for the Kane quantum computer in the presence of dephasing. Phys. Rev. A 70, 22310 (2004).
 
 63.	Hill, C. D. & Goan, H.-S. Fast nonadiabatic two-qubit gates for the Kane quantum computer. Phys. Rev. A 68, 12321 (2003).
+
+
+Internationally Recognised Patents
+=====
+
+* Hill, CD, Hollenberg, LCL, Fuechsle, M, Hile, SJ, House, MG, Peretz, E, Rogge, S & Simmons, MY 2016, 'Apparatus and method for quantum processing', US Patent App. 14/931,768
+
+* Hill, CD, Hollenberg, LCL, Simmons, MY, Peretz, E, Rogge, S, Fuechsle, M & Hile, SJ 2016,
+'Apparatus and method for quantum processing', US Patent App. 14/931,738
