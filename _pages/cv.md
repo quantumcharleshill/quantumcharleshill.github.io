@@ -60,6 +60,9 @@ Dr Hill's extensive knowledge and experience quantum computing allowed him to de
  
 Publications
 ======
+
+I have an h-index of 26 (September, 2021) and over 2,200 citations of my work.
+
 0. Gregory A. L. White, Felix A. Pollock, Lloyd C. L. Hollenberg, Charles D. Hill, Kavan Modi, "Diagnosing temporal quantum correlations: compressed non-Markovian calipers", https://arxiv.org/abs/2107.13934 (2021)
 
 0. Maiyuren Srikumar, Charles D. Hill, Lloyd C. L. Hollenberg, "Clustering and enhanced classification using a hybrid quantum autoencoder", https://arxiv.org/abs/2107.11988 (2021)
