@@ -1,10 +1,10 @@
 ---
-title: "Elements of Quantum Computing (2020-)"
+title: "Elements of Quantum Computing (2020- )"
 collection: teaching
 type: "Second year undergraduate course"
 permalink: /teaching/elements_of_qc
 venue: "University of Melbourne"
-# date: 2020, 2021
+date: 2021-06-01
 location: "Melbourne, Australia"
 ---
 
