@@ -36,8 +36,11 @@ Professional Leadership
 
 Lecturing and Course Development
 ======
-  <ul>{% for post in site.teaching %}{% include archive-single-cv.html %}{% endfor %}</ul>
 
+* [Introduction to Quantum Computing](https://quantumcharleshill.github.io/teaching/introduction_to_qc) (2018- )
+* [Elements of Quantum Computing](https://quantumcharleshill.github.io/teaching/elements_of_qc) (2020- )
+* [Quantum Software Fundamentals](https://quantumcharleshill.github.io/teaching/quantum_software_fundamentals) (2021- )
+ 
 Education
 ======
 * **1996 - 1999**	*Bachelor of Science (First Class Honours in Physics)* at Australian National University (Canberra, Australia)
