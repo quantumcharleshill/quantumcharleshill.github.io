@@ -11,26 +11,29 @@ redirect_from:
 
 You can download a fuller copy of my CV [here](/files/CharlesHillCV.pdf).
 
+Work Experience
+======
+
+* **2021 - current** *Senior Lecturer*, School of Physics & School of Mathematics and Statistics, The University of Melbourne 
+* **2018-current:** Co-founder, IBM Quantum Hub at the University of Melbourne
+* **2019 - 2021** *Lecturer*, School of Physics & School of Mathematics and Statistics, The University of Melbourne
+* **2011 - 2019**	*Research Fellow* at University of Melbourne (Australia) as part of the Centre for Quantum Computation and Communication Technology
+* **2008 - 2010**	*Research Fellow* at University of Melbourne (Australia) as part of the Centre for Quantum Computer Technology (CQCT) 
+* **2006 - 2007**	*Postdoctoral researcher* at University of Liverpool (UK)
+* **2000 – 2002**	*Software developer* for Aspect Computing, primarily developing the Hansard Production System (HPS) at Australian Parliament House, Canberra.
 
 Professional Leadership
 ======
 
-* **2019-2021:** Founder and administrator of Melbourne Quantum network
-* **2018-2021:** Establishment and Administering of IBM Quantum Hub at the University of Melbourne
-* **2020-2021:** Affiliate of Melbourne Centre for Data Science
-* **2006-2021:** Review for international journals and conferences in quantum information/computation 
-* **2019-2021:** Organiser of IBM Quantum Seminars at the University of Melbourne
-* **2020-2021:** Academic Disciplinary Committee for physics
-* **2008-2021:** Organiser of quantum paper reading group, The University of Melbourne
+* **2019-current:** Founder, Melbourne Quantum network (Melbourne, RMIT and Monash Universities)
+* **2018-current:** Co-founder, IBM Quantum Hub at the University of Melbourne
+* **2020-current:** Affiliate of Melbourne Centre for Data Science
+* **2006-current:** Review for international journals and conferences in quantum information/computation 
+* **2019-current:** Organiser of IBM Quantum Seminars at the University of Melbourne
+* **2020-current:** Academic Disciplinary Committee for physics
+* **2008-current:** Organiser of quantum paper reading group, The University of Melbourne
+* **2008-current:** Supervisor for PhDs and Masters students 
 
-Work Experience
-======
-
-* **2019 – 2021** *Lecturer/Senior Lecturer and Technical Lead*, IBM Quantum Network Hub at the University of Melbourne 
-* **2011 - 2019**	*Postdoctoral researcher* at University of Melbourne (Australia) as part of the Centre for Quantum Computation and Communication Technology
-* **2008 - 2010**	*Postdoctoral researcher* at University of Melbourne (Australia) as part of the Centre for Quantum Computer Technology (CQCT) 
-* **2006 - 2007**	*Postdoctoral researcher* at University of Liverpool (UK)
-* **2000 – 2002**	*Software developer* for Aspect Computing, primarily developing the Hansard Production System (HPS) at Australian Parliament House, Canberra.
 
 Teaching
 ======
