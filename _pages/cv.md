@@ -33,7 +33,7 @@ Education
 Professional Leadership
 ======
 
-* **2019-current:** Founder, Melbourne Quantum network (Melbourne, RMIT and Monash Universities)
+* **2019-current:** Co-founder, Melbourne Quantum network (Melbourne, RMIT and Monash Universities)
 * **2018-current:** Co-founder, IBM Quantum Hub at the University of Melbourne
 * **2020-current:** Affiliate of Melbourne Centre for Data Science
 * **2006-current:** Review for international journals and conferences in quantum information/computation 
