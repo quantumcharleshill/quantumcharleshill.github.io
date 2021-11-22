@@ -15,7 +15,7 @@ Work History
 ======
 
 * **2021 - current** *Senior Lecturer*, School of Physics & School of Mathematics and Statistics, The University of Melbourne 
-* **2018-current:** Co-founder, IBM Quantum Hub at the University of Melbourne
+* **2018-current:** Technical lead, IBM Quantum Hub at the University of Melbourne
 * **2019 - 2021** *Lecturer*, School of Physics & School of Mathematics and Statistics, The University of Melbourne
 * **2011 - 2019**	*Research Fellow* at University of Melbourne (Australia) as part of the Centre for Quantum Computation and Communication Technology
 * **2008 - 2010**	*Research Fellow* at University of Melbourne (Australia) as part of the Centre for Quantum Computer Technology (CQCT) 
