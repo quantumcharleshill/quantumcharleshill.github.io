@@ -86,12 +86,11 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - (Near-Optimal Quantum Algorithms for String Problems (Ce Jin))[https://www.youtube.com/watch?v=rNI4IeA3J3Q&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=99]
 
-
 - (Optimal scaling quantum linear systems solver via discrete adiabatic.. (Pedro C.S. Costa))[https://www.youtube.com/playlist?list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz]
 
 - (Morita equivalence as a quantum circuit (Laurens Lootens))[https://www.youtube.com/watch?v=cDphZJUZtjo&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=104]
 
--[Sublinear quantum algorithms for estimating von Neumann ... (Sathyawageeswar Subramanian)](https://www.youtube.com/watch?v=tMStCgprD1w&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=122)
+- [Sublinear quantum algorithms for estimating von Neumann ... (Sathyawageeswar Subramanian)](https://www.youtube.com/watch?v=tMStCgprD1w&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=122)
 
 - [Spectral Analysis of Product Formulas for Quantum Simulation (Changhao Yi)](https://www.youtube.com/watch?v=gHE2PXPSQkU&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=123)
 
@@ -123,7 +122,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Linear growth of quantum circuit complexity](https://www.youtube.com/watch?v=xUztt0MPPNw&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=83)
 
--[On the complexity of quantum partition functions (Anirban Chowdhury)](https://www.youtube.com/watch?v=OS2_w0wwKW0&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=109)
+- [On the complexity of quantum partition functions (Anirban Chowdhury)](https://www.youtube.com/watch?v=OS2_w0wwKW0&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=109)
 
 
 - [The Acrobatics of BQP (William Kretschmer)](https://www.youtube.com/watch?v=KYgaaDAaCYA&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=117)
@@ -211,7 +210,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Beating Classical Impossibility of Position Verification (Luowen Qian)](https://www.youtube.com/watch?v=Fkz7C86CYuk)
 
--[Hidden Cosets and Applications to Unclonable Cryptography (Jiahui Liu)](https://www.youtube.com/watch?v=IOt7zZ6mdrc)
+- [Hidden Cosets and Applications to Unclonable Cryptography (Jiahui Liu)](https://www.youtube.com/watch?v=IOt7zZ6mdrc)
 
 - [Public-Key Quantum Money with a Classical Bank (Omri Shmueli)](https://www.youtube.com/watch?v=1ilsa-GN774&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=54)
 
@@ -219,9 +218,9 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Privacy amplification and decoupling without smoothing/... (Frédéric Dupuis & Ke Li)](https://www.youtube.com/watch?v=IQyOXHyqjf4&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=79)
 
--[Local Simultaneous State Discrimination -- Characterization and ... (Mehrdad Tahmasbi)](https://www.youtube.com/watch?v=BC5oiYfskyA&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=85)
+- [Local Simultaneous State Discrimination -- Characterization and ... (Mehrdad Tahmasbi)](https://www.youtube.com/watch?v=BC5oiYfskyA&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=85)
 
--[One-shot inner bounds for sending private classical information... (Sayantan Chakraborty)](https://www.youtube.com/watch?v=9n88np674HI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=110)
+- [One-shot inner bounds for sending private classical information... (Sayantan Chakraborty)](https://www.youtube.com/watch?v=9n88np674HI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=110)
 
 
 # Post-Quantum
