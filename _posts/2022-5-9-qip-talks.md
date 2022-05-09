@@ -74,46 +74,60 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 - [Optimizing thermalizations (Kamil Korzekwa)](https://www.youtube.com/watch?v=ux8I-DPJE3I&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=96)
 
 
-
-- [A quantum advantage for a Natural Streaming Problem (John Kallaugher)](https://www.youtube.com/watch?v=zzlCBI6-gQs)
-
-
-- [A randomized quantum algorithm for statistical phase estimation (Kianna Wan)](https://www.youtube.com/watch?v=YQBhedL93io)
-
-- [Quantum Distributed Algorithms for Detection of Cliques (Dean Leitersdorf)](https://www.youtube.com/watch?v=U_uGA1L92OY&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=60)
-
-
-- [Beyond quadratic speedups in quantum attacks on symmetric schemes (Xavier Bonnetain)](https://www.youtube.com/watch?v=JCPk5zYKbcg)
-
-- [A variational method and its applications in quantum information theory (Haonan Zhang)](https://www.youtube.com/watch?v=8P2afKACzBY)
-
-- [Distributed quantum inner product estimation (Yunchao Liu)](https://www.youtube.com/watch?v=63MYesER-xM)
+### Random circuits and noise
 
 - [Random quantum circuits transform local noise into global white noise (Alex Dalzell)](https://www.youtube.com/watch?v=8m4Ovl3nKE4&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=66)
 
 - [Tight bounds on the convergence of noisy random circuits to uniform (Abhinav Deshpande)](https://www.youtube.com/watch?v=hSi_uzW2o-A&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=113)
 
-- [Quantum Approximation Algorithms via the Level-2 Quantum Lasserre ... (Kevin Thomson)](https://www.youtube.com/watch?v=TsL2I-_z8nE&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=74)
 
-- [Quantum Algorithms for Variants of Average-Case Lattice Problems via ... (Qipeng Liu)](https://www.youtube.com/watch?v=2m4SesywfHg&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=75)
+### Statistical properties
+
+- [A randomized quantum algorithm for statistical phase estimation (Kianna Wan)](https://www.youtube.com/watch?v=YQBhedL93io)
 
 - [Quantum Algorithms and Lower Bounds for Linear Regression with Norm ... (Yanlin Chen)](https://www.youtube.com/watch?v=4eC0zMoejGo&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=76)
 
-- [Improved Classical and Quantum Algorithms for the Shortest Vector ... (Rajendra Kumar)](https://www.youtube.com/watch?v=s0RopcfvP7Q&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=89)
-
-- [Improved approximation algorithms for bounded-degree local Ham... (Mehdi Soleimanifar)](https://www.youtube.com/watch?v=h1Q__L54GZk&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=90)
-
+- [Sublinear quantum algorithms for estimating von Neumann ... (Sathyawageeswar Subramanian)](https://www.youtube.com/watch?v=tMStCgprD1w&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=122)
 
 - [Near-Optimal Quantum Algorithms for Multivariate Mean Estimation (Arjan Cornelissen)](https://www.youtube.com/watch?v=rtfCfz0jOrM&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=98)
 
+
+
+### Cryptographic
+
+- [Beyond quadratic speedups in quantum attacks on symmetric schemes (Xavier Bonnetain)](https://www.youtube.com/watch?v=JCPk5zYKbcg)
+
+- [Quantum Algorithms for Variants of Average-Case Lattice Problems via ... (Qipeng Liu)](https://www.youtube.com/watch?v=2m4SesywfHg&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=75)
+
+- [Improved Classical and Quantum Algorithms for the Shortest Vector ... (Rajendra Kumar)](https://www.youtube.com/watch?v=s0RopcfvP7Q&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=89)
+
+
+### Graph and string problems
+
+- [Quantum Distributed Algorithms for Detection of Cliques (Dean Leitersdorf)](https://www.youtube.com/watch?v=U_uGA1L92OY&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=60)
+
+
 - [Near-Optimal Quantum Algorithms for String Problems (Ce Jin)](https://www.youtube.com/watch?v=rNI4IeA3J3Q&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=99)
+
+
+### Variational and adiabatic
+
+- [A variational method and its applications in quantum information theory (Haonan Zhang)](https://www.youtube.com/watch?v=8P2afKACzBY)
+
+- [Quantum Approximation Algorithms via the Level-2 Quantum Lasserre ... (Kevin Thomson)](https://www.youtube.com/watch?v=TsL2I-_z8nE&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=74)
 
 - [Optimal scaling quantum linear systems solver via discrete adiabatic... (Pedro C.S. Costa)](https://www.youtube.com/playlist?list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz)
 
+
+### Physics based
+
+- [Distributed quantum inner product estimation (Yunchao Liu)](https://www.youtube.com/watch?v=63MYesER-xM)
+
+- [A quantum advantage for a Natural Streaming Problem (John Kallaugher)](https://www.youtube.com/watch?v=zzlCBI6-gQs)
+
+- [Improved approximation algorithms for bounded-degree local Ham... (Mehdi Soleimanifar)](https://www.youtube.com/watch?v=h1Q__L54GZk&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=90)
+
 - [Morita equivalence as a quantum circuit (Laurens Lootens)](https://www.youtube.com/watch?v=cDphZJUZtjo&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=104)
-
-- [Sublinear quantum algorithms for estimating von Neumann ... (Sathyawageeswar Subramanian)](https://www.youtube.com/watch?v=tMStCgprD1w&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=122)
-
 
 
 
@@ -140,12 +154,11 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 ## Computational complexity
 
-- [Computational Complexity of the Ground State Energy Density Problem (James Watson)](https://www.youtube.com/watch?v=tTRwXBcSa1Q&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=42)
-
 - [Linear growth of quantum circuit complexity](https://www.youtube.com/watch?v=xUztt0MPPNw&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=83)
 
-- [On the complexity of quantum partition functions (Anirban Chowdhury)](https://www.youtube.com/watch?v=OS2_w0wwKW0&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=109)
+- [Computational Complexity of the Ground State Energy Density Problem (James Watson)](https://www.youtube.com/watch?v=tTRwXBcSa1Q&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=42)
 
+- [On the complexity of quantum partition functions (Anirban Chowdhury)](https://www.youtube.com/watch?v=OS2_w0wwKW0&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=109)
 
 - [The Acrobatics of BQP (William Kretschmer)](https://www.youtube.com/watch?v=KYgaaDAaCYA&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=117)
 
