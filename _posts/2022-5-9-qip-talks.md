@@ -84,11 +84,11 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Near-Optimal Quantum Algorithms for Multivariate Mean Estimation (Arjan Cornelissen)](https://www.youtube.com/watch?v=rtfCfz0jOrM&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=98)
 
-- (Near-Optimal Quantum Algorithms for String Problems (Ce Jin))[https://www.youtube.com/watch?v=rNI4IeA3J3Q&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=99]
+- [Near-Optimal Quantum Algorithms for String Problems (Ce Jin)](https://www.youtube.com/watch?v=rNI4IeA3J3Q&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=99)
 
-- (Optimal scaling quantum linear systems solver via discrete adiabatic.. (Pedro C.S. Costa))[https://www.youtube.com/playlist?list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz]
+- [Optimal scaling quantum linear systems solver via discrete adiabatic... (Pedro C.S. Costa)](https://www.youtube.com/playlist?list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz)
 
-- (Morita equivalence as a quantum circuit (Laurens Lootens))[https://www.youtube.com/watch?v=cDphZJUZtjo&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=104]
+- [Morita equivalence as a quantum circuit (Laurens Lootens)](https://www.youtube.com/watch?v=cDphZJUZtjo&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=104)
 
 - [Sublinear quantum algorithms for estimating von Neumann ... (Sathyawageeswar Subramanian)](https://www.youtube.com/watch?v=tMStCgprD1w&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=122)
 
