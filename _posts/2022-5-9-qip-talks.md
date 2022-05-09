@@ -9,7 +9,7 @@ tags:
 QIP 2022 have generously made their talks available on [youtube](https://www.youtube.com/channel/UCfN1uBQkn_FIp9EpkHZFi2w/featured). Here I attempt to categorise them by subject so that they're more digestable.
 
 
-# Nonlocal Games
+## Nonlocal Games
 
 - [Nonlocal Games, Compression Theorems, and the Arithmetical Hierarchy (Hamoon Mousavi)](https://www.youtube.com/watch?v=uiUIQ_qzDfs)
 
@@ -18,7 +18,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 - [Rigidity for Monogamy-of-Entanglement Games (Eric Culf)](https://www.youtube.com/watch?v=by5LJEEQ6Qg&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=65)
 
 
-# Entanglement
+## Entanglement
 
 - [An area law for 2D frustration-free spin systems (David Gosset)](https://www.youtube.com/watch?v=jFmC8Txq_58)
 
@@ -32,39 +32,62 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 
 
-# Algorithms
+## Algorithms
+
+### Learning
 
 - [Foundations for learning from noisy quantum experiments (Hsin-Yuan Huang)](https://www.youtube.com/watch?v=w9exs3CFCdE)
 
 - [Provably efficient machine learning for quantum many-body problems (Hsin-Yuan Huang)](https://www.youtube.com/watch?v=pjvwi1d9rd4&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=43)
 
+- [Exponential separations between learning with and without quantum memory (Jordan Cotler)](https://www.youtube.com/watch?v=orD5QCWDJEs&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=45)
+
+- [Optimal learning of quantum Hamiltonians from high-temperature Gibbs states (Ewin Tang)](https://www.youtube.com/watch?v=gvYdKkVA8Ug&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=101)
+
+- [Improved lower bounds for learning quantum states with unentangled ... (Angus Lowe)](https://www.youtube.com/watch?v=4pAl502InS0&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=86)
+
+
+### Fermionic systems
+
 - [Optimizing Strongly Interacting Fermionic Hamiltonians (Matthew Hastings)](https://www.youtube.com/watch?v=y_6VNgE0qto&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=95)
+
+- [Fermion Sampling: a robust quantum computational advantage scheme ... (Zoltan Zimboras)](https://www.youtube.com/watch?v=KxDqmQ2j8Aw&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=58)
+
+
+### Quantum simulation
 
 - [Quantum simulation of conformal field theory (Alexander Stottmeister)](https://www.youtube.com/watch?v=ZNXK1vyrwns&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=68)
 
 - [Provably accurate simulation of gauge theories and bosonic systems (Yu Tong)](https://www.youtube.com/watch?v=L-XP-SNrSTs&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=77)
 
+- [Hamiltonian simulation with random inputs (Qi Zhao)](https://www.youtube.com/watch?v=P2EbYkFQdVo)
+
+- [Spectral Analysis of Product Formulas for Quantum Simulation (Changhao Yi)](https://www.youtube.com/watch?v=gHE2PXPSQkU&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=123)
+
+
+### Thermalisation
+
+- [Eigenstate Thermalization and Quantum Metropolis Sampling (Samuel Slezak)](https://www.youtube.com/watch?v=by4rvu7RMtY)
+
+- [Fast Thermalization from the Eigenstate Thermalization Hypothesis (Chi-Fang Chen)](https://www.youtube.com/watch?v=TwbaiKDdnLI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=39)
+
+- [Optimizing thermalizations (Kamil Korzekwa)](https://www.youtube.com/watch?v=ux8I-DPJE3I&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=96)
+
+
+
 - [A quantum advantage for a Natural Streaming Problem (John Kallaugher)](https://www.youtube.com/watch?v=zzlCBI6-gQs)
 
-- [Exponential separations between learning with and without quantum memory (Jordan Cotler)](https://www.youtube.com/watch?v=orD5QCWDJEs&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=45)
-
-- [Fermion Sampling: a robust quantum computational advantage scheme ... (Zoltan Zimboras)](https://www.youtube.com/watch?v=KxDqmQ2j8Aw&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=58)
 
 - [A randomized quantum algorithm for statistical phase estimation (Kianna Wan)](https://www.youtube.com/watch?v=YQBhedL93io)
 
 - [Quantum Distributed Algorithms for Detection of Cliques (Dean Leitersdorf)](https://www.youtube.com/watch?v=U_uGA1L92OY&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=60)
 
-- [Eigenstate Thermalization and Quantum Metropolis Sampling (Samuel Slezak)](https://www.youtube.com/watch?v=by4rvu7RMtY)
 
 - [Beyond quadratic speedups in quantum attacks on symmetric schemes (Xavier Bonnetain)](https://www.youtube.com/watch?v=JCPk5zYKbcg)
 
 - [A variational method and its applications in quantum information theory (Haonan Zhang)](https://www.youtube.com/watch?v=8P2afKACzBY)
 
 - [Distributed quantum inner product estimation (Yunchao Liu)](https://www.youtube.com/watch?v=63MYesER-xM)
-
-- [Hamiltonian simulation with random inputs (Qi Zhao)](https://www.youtube.com/watch?v=P2EbYkFQdVo)
-
-- [Fast Thermalization from the Eigenstate Thermalization Hypothesis (Chi-Fang Chen)](https://www.youtube.com/watch?v=TwbaiKDdnLI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=39)
 
 - [Random quantum circuits transform local noise into global white noise (Alex Dalzell)](https://www.youtube.com/watch?v=8m4Ovl3nKE4&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=66)
 
@@ -80,7 +103,6 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Improved approximation algorithms for bounded-degree local Ham... (Mehdi Soleimanifar)](https://www.youtube.com/watch?v=h1Q__L54GZk&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=90)
 
-- [Optimizing thermalizations (Kamil Korzekwa)](https://www.youtube.com/watch?v=ux8I-DPJE3I&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=96)
 
 - [Near-Optimal Quantum Algorithms for Multivariate Mean Estimation (Arjan Cornelissen)](https://www.youtube.com/watch?v=rtfCfz0jOrM&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=98)
 
@@ -92,12 +114,10 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Sublinear quantum algorithms for estimating von Neumann ... (Sathyawageeswar Subramanian)](https://www.youtube.com/watch?v=tMStCgprD1w&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=122)
 
-- [Spectral Analysis of Product Formulas for Quantum Simulation (Changhao Yi)](https://www.youtube.com/watch?v=gHE2PXPSQkU&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=123)
 
 
-# Classical algorithms for quantum problems
 
-- [Optimal learning of quantum Hamiltonians from high-temperature Gibbs states (Ewin Tang)](https://www.youtube.com/watch?v=gvYdKkVA8Ug&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=101)
+## Classical algorithms for quantum problems
 
 - [Dequantizing the Quantum Singular Value Transformation: Hardness and... (Sevag Gharibian)](https://www.youtube.com/watch?v=viK0nJw62Ks)
 
@@ -108,6 +128,8 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 - [Near-Optimal Classical and Quantum Lower Bounds For Convex ... (Suhail Sherif)](https://www.youtube.com/watch?v=X9iXTuXpttc&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=106)
 
 
+### Boson Sampling
+
 - [Permanent of Random Matrices from Representation Theory (Sepehr Nezami)](https://www.youtube.com/watch?v=wLOQGaUeZ5U&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=82)
 
 - [Classical simulations of Gaussian boson sampling (Jacob Bulmer and Benjamin Villalonga)](https://www.youtube.com/watch?v=AN7d_UzkNgM&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=40)
@@ -116,7 +138,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 
 
-# Computational Complexity
+## Computational complexity
 
 - [Computational Complexity of the Ground State Energy Density Problem (James Watson)](https://www.youtube.com/watch?v=tTRwXBcSa1Q&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=42)
 
@@ -128,7 +150,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 - [The Acrobatics of BQP (William Kretschmer)](https://www.youtube.com/watch?v=KYgaaDAaCYA&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=117)
 
 
-# Quantum circuit and state synthesis
+## Quantum circuit and state synthesis
 
 - [An inverse-free Solovay-Kitaev algorithm (Tudor Giurgica-Tiron)](https://www.youtube.com/watch?v=VDVbXumxLTw)
 
@@ -144,11 +166,11 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Quantum Circuits assisted by LOCC: Transformations and Phases of ... (Georgios Styliaris)](https://www.youtube.com/watch?v=mct_FB3O-Ms&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=73)
 
-- [Symmetric Quantum Circuits:How, in the presence of symmetry, locality ... (Iman Marvian)](https://www.youtube.com/watch?v=vserrYyNolo&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=120)
+- [Symmetric Quantum Circuits: How, in the presence of symmetry, locality ... (Iman Marvian)](https://www.youtube.com/watch?v=vserrYyNolo&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=120)
 
 
 
-# Quantum Error Correction, Stabilizer states and Error Mitigation
+## Quantum Error Correction and Error Mitigation
 
 - [Floquet Codes (Matthew Hastings)](https://www.youtube.com/watch?v=JTvByDNy8zE&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=57)
 
@@ -167,7 +189,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 - [Quantum codes, Topological Order, and Quantum Computation on Fractal ... (Guanyu Zhu)](https://www.youtube.com/watch?v=pmOqJCt6CBc&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=72)
 
 
-# Stabilizers and Magic States
+## Stabilizers and magic states
 
 - [Lower Bounds on Stabilizer Rank (Shir Peleg)](https://www.youtube.com/watch?v=2aoqOROPUzI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=87)
 
@@ -177,12 +199,12 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 
 
-# Blind quantum computation
+## Blind quantum computation
 
 - [Succinct Blind Quantum Computation Using a Random Oracle (Jiayu Zhang)](https://www.youtube.com/watch?v=dPw4zq9LetI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=121)
 
 
-# Tomography, Benchmarking
+## Tomography, Benchmarking
 
 - [The application oriented benchmarks for quantum computing (Luming Zhao, IonQ)](https://www.youtube.com/watch?v=o8LJa304IkM)
 
@@ -195,14 +217,14 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 - [Testing matrix product states (Mehdi Soleimanifar)](https://www.youtube.com/watch?v=xVFksVPw1T4&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=119)
 
 
-# Quantum Channels
+## Quantum Channels
 
 - [Detecting positive quantum capacities of quantum channels (Satvik Singh)](https://www.youtube.com/watch?v=cLICuttOyFE&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=61)
 
 - [The platypus of the quantum channel zoo (Vikesh Siddhu)](https://www.youtube.com/watch?v=JqQJYF-34YU&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=115)
 
 
-# QKD, Cryptography
+## QKD, Cryptography
 
 - [A direct product theorem for quantum communication complexity with app... (Rahul Jain)](https://www.youtube.com/watch?v=lBoje2hR6hw)
 
@@ -223,7 +245,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 - [One-shot inner bounds for sending private classical information... (Sayantan Chakraborty)](https://www.youtube.com/watch?v=9n88np674HI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=110)
 
 
-# Post-Quantum
+## Post-Quantum
 
 - [Post-Quantum Succinct Arguments: Breaking the Quantum Rewinding Barrier (Fermi Ma)](https://www.youtube.com/watch?v=D8pOgiEdui4&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=80)
 
@@ -232,7 +254,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 - [On the Post-Quantum Black-Box Zero-Knowledge in Constant Rounds (Qipeng Liu)](https://www.youtube.com/watch?v=-V7dGFSaCxY&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=111)
 
 
-# Other quantum information
+## Other quantum information
 
 - [Quantum Theory Needs Complex Numbers (Marc-Olivier Renou)](https://www.youtube.com/watch?v=93Vjj6CrZNc&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=50)
 
@@ -258,14 +280,13 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Probabilistic transformations of quantum resources (Bartosz Regula)](https://www.youtube.com/watch?v=lpmX7Bi1UwI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=78)
 
-- [Improved lower bounds for learning quantum states with unentangled ... (Angus Lowe)](https://www.youtube.com/watch?v=4pAl502InS0&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=86)
 
 - [Toward Instance-Optimal Quantum State Certification With Incoherent ... (Sitan Chen)](https://www.youtube.com/watch?v=oFKWfuTZy68&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=112)
 
 - [Three-dimensional quantum cellular automata from chiral semion surface.. (Wilbur Shirley)](https://www.youtube.com/watch?v=A3Es0RUTzmM&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=114)
 
 
-# Enterprise Quantum
+## Enterprise Quantum
 
 - [Azure Quantum for Researchers (Martin Roetteler)](https://www.youtube.com/watch?v=ZLG4KVFZfME)
 
