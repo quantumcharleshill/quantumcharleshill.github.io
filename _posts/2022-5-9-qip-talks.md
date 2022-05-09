@@ -46,6 +46,8 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Improved lower bounds for learning quantum states with unentangled ... (Angus Lowe)](https://www.youtube.com/watch?v=4pAl502InS0&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=86)
 
+- [Quantum proofs of deletion for Learning With Errors (Alexander Poremba)](https://www.youtube.com/watch?v=jnNd0pnlYAM)
+
 
 ### Fermionic systems
 
@@ -53,6 +55,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Fermion Sampling: a robust quantum computational advantage scheme ... (Zoltan Zimboras)](https://www.youtube.com/watch?v=KxDqmQ2j8Aw&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=58)
 
+- [Free fermions behind the disguise (Adrian Chapman)](https://www.youtube.com/watch?v=2AIVsTZrbOM&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=41)
 
 ### Quantum simulation
 
@@ -82,8 +85,6 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 
 ### Statistical properties
-
-- [A randomized quantum algorithm for statistical phase estimation (Kianna Wan)](https://www.youtube.com/watch?v=YQBhedL93io)
 
 - [Quantum Algorithms and Lower Bounds for Linear Regression with Norm ... (Yanlin Chen)](https://www.youtube.com/watch?v=4eC0zMoejGo&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=76)
 
@@ -120,6 +121,8 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 
 ### Physics based
+
+- [A randomized quantum algorithm for statistical phase estimation (Kianna Wan)](https://www.youtube.com/watch?v=YQBhedL93io)
 
 - [Distributed quantum inner product estimation (Yunchao Liu)](https://www.youtube.com/watch?v=63MYesER-xM)
 
@@ -169,10 +172,6 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Concentration for Trotter error (Chi-Fang Chen)](https://www.youtube.com/watch?v=a9z6AGQ-iw4)
 
-- [Correlations in entanglement-assisted prepare-and-measure scenarios (Armin Tavakoli)](https://www.youtube.com/watch?v=-kai7ayKU98)
-
-- [Fundamental Limits on Correlated Catalytic State Transformations (Roberto Rubboli)](https://www.youtube.com/watch?v=w9exs3CFCdE)
-
 - [Interactive Proofs for Synthesizing Quantum States and Unitaries (Gregory Rosenthal)](https://www.youtube.com/watch?v=vq14T5xJ18M)
 
 - [Quantum search-to-decision reductions and the state synthesis problem (Chinmay Nirkhe)](https://www.youtube.com/watch?v=kkYY6f8B-wQ&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=69)
@@ -217,7 +216,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 - [Succinct Blind Quantum Computation Using a Random Oracle (Jiayu Zhang)](https://www.youtube.com/watch?v=dPw4zq9LetI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=121)
 
 
-## Tomography, Benchmarking
+## Tomography, Benchmarking, Certification
 
 - [The application oriented benchmarks for quantum computing (Luming Zhao, IonQ)](https://www.youtube.com/watch?v=o8LJa304IkM)
 
@@ -229,6 +228,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Testing matrix product states (Mehdi Soleimanifar)](https://www.youtube.com/watch?v=xVFksVPw1T4&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=119)
 
+- [Toward Instance-Optimal Quantum State Certification With Incoherent ... (Sitan Chen)](https://www.youtube.com/watch?v=oFKWfuTZy68&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=112)
 
 ## Quantum Channels
 
@@ -267,36 +267,44 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 - [On the Post-Quantum Black-Box Zero-Knowledge in Constant Rounds (Qipeng Liu)](https://www.youtube.com/watch?v=-V7dGFSaCxY&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=111)
 
 
-## Other quantum information
-
-- [Quantum Theory Needs Complex Numbers (Marc-Olivier Renou)](https://www.youtube.com/watch?v=93Vjj6CrZNc&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=50)
-
-- [Asymptotic composite binary hypotheses testing: a conjecture disproved (Mihály Weiner)](https://www.youtube.com/watch?v=_FJJThaWwyM)
-
-- [Quantum proofs of deletion for Learning With Errors (Alexander Poremba)](https://www.youtube.com/watch?v=jnNd0pnlYAM)
+## Catalytic and entanglement-assisted circuits
 
 - [Catalytic quantum teleportation (Patryk Lipka-Bartosik)](https://www.youtube.com/watch?v=1i3JqvwPDus)
 
-- [Indistinguishability Obfuscation of Null Quantum Circuits and App... (James Bartusek)](https://www.youtube.com/watch?v=AxRS5PEtq0U)
+- [Fundamental Limits on Correlated Catalytic State Transformations (Roberto Rubboli)](https://www.youtube.com/watch?v=w9exs3CFCdE)
 
-- [Holomorphic Quantum Computing (Ulysse Chabaud)](https://www.youtube.com/watch?v=RlBfgEtqPf8)
+- [Correlations in entanglement-assisted prepare-and-measure scenarios (Armin Tavakoli)](https://www.youtube.com/watch?v=-kai7ayKU98)
 
-- [Complete entropic inequalities for quantum Markov chains (Li Gao)](https://www.youtube.com/watch?v=nfampRGiFKY)
+
+## Quantum information
 
 - [Exponential Decay of Mutual Information for Gibbs states of local... (Ángela Capel)](https://www.youtube.com/watch?v=HEb0SBetBKE&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=51)
 
-- [Free fermions behind the disguise (Adrian Chapman)](https://www.youtube.com/watch?v=2AIVsTZrbOM&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=41)
+- [Complete entropic inequalities for quantum Markov chains (Li Gao)](https://www.youtube.com/watch?v=nfampRGiFKY)
 
 - [Witnessing latent time correlations with a single quantum particle (Hlér Kristjánsson)](https://www.youtube.com/watch?v=2_j1QDPVXpM&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=53)
-
-- [Chiral central charge from a single wavefunction (Bowen Shi)](https://www.youtube.com/watch?v=KROw3xAi1DI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=56)
 
 - [Probabilistic transformations of quantum resources (Bartosz Regula)](https://www.youtube.com/watch?v=lpmX7Bi1UwI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=78)
 
 
-- [Toward Instance-Optimal Quantum State Certification With Incoherent ... (Sitan Chen)](https://www.youtube.com/watch?v=oFKWfuTZy68&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=112)
+- [Asymptotic composite binary hypotheses testing: a conjecture disproved (Mihály Weiner)](https://www.youtube.com/watch?v=_FJJThaWwyM)
+
+- [Indistinguishability Obfuscation of Null Quantum Circuits and App... (James Bartusek)](https://www.youtube.com/watch?v=AxRS5PEtq0U)
+
+
+
+## Novel quantum computing
 
 - [Three-dimensional quantum cellular automata from chiral semion surface.. (Wilbur Shirley)](https://www.youtube.com/watch?v=A3Es0RUTzmM&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=114)
+
+- [Holomorphic Quantum Computing (Ulysse Chabaud)](https://www.youtube.com/watch?v=RlBfgEtqPf8)
+
+
+## Fundamentals
+
+- [Quantum Theory Needs Complex Numbers (Marc-Olivier Renou)](https://www.youtube.com/watch?v=93Vjj6CrZNc&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=50)
+
+- [Chiral central charge from a single wavefunction (Bowen Shi)](https://www.youtube.com/watch?v=KROw3xAi1DI&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=56)
 
 
 ## Enterprise Quantum
