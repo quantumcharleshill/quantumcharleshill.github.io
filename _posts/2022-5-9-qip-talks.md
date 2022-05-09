@@ -1,12 +1,22 @@
 ---
-title: 'QIP Talks Categorised'
+title: 'QIP 2022 Talks Categorised'
 date: 2021-09-19
 permalink: /posts/2022/05/qip_talks/
 tags:
   - quantum
 ---
 
-QIP 2022 have generously made their talks available on [youtube](https://www.youtube.com/channel/UCfN1uBQkn_FIp9EpkHZFi2w/featured). Here I attempt to categorise them by subject so that they're more digestable.
+QIP 2022 have generously made their talks available on [youtube](https://www.youtube.com/channel/UCfN1uBQkn_FIp9EpkHZFi2w/featured). This is my attempt to roughly categorise them by subject so that they're more digestable.
+
+## Tutorials
+
+- [The Randomized Measurement Toolbox - Richard Küng](https://www.youtube.com/watch?v=FXdJoJ0qcZY&list=PL_LmWMtYUUY1wD7orYebk7JScxLGFgvzJ&index=1)
+
+- [From One-shot to Asymptotic Quantum Information Theory - Marco Tomamichel](https://www.youtube.com/watch?v=npSvcU7KGqY&list=PL_LmWMtYUUY1wD7orYebk7JScxLGFgvzJ&index=2)
+
+- [Quantum Machine Learning - Mária Kieferová](https://www.youtube.com/watch?v=1Ly3QRPdApA&list=PL_LmWMtYUUY1wD7orYebk7JScxLGFgvzJ&index=3)
+
+- [Post-Quantum Cryptography - Chris Peikert](https://www.youtube.com/watch?v=dbP2cgTsrRo&list=PL_LmWMtYUUY1wD7orYebk7JScxLGFgvzJ&index=4)
 
 
 ## Nonlocal Games
