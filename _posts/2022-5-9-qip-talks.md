@@ -1,6 +1,6 @@
 ---
 title: 'QIP 2022 Talks Categorised'
-date: 2022-09-19
+date: 2022-5-10
 permalink: /posts/2022/05/qip_talks/
 tags:
   - quantum
