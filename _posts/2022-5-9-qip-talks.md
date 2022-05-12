@@ -127,7 +127,7 @@ QIP 2022 have generously made their talks available on [youtube](https://www.you
 
 - [Quantum Approximation Algorithms via the Level-2 Quantum Lasserre ... (Kevin Thomson)](https://www.youtube.com/watch?v=TsL2I-_z8nE&list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz&index=74)
 
-- [Optimal scaling quantum linear systems solver via discrete adiabatic... (Pedro C.S. Costa)](https://www.youtube.com/playlist?list=PL_LmWMtYUUY28vn7N74s52yA1WoEhZaOz)
+- [Optimal scaling quantum linear systems solver via discrete adiabatic... (Pedro C.S. Costa)](https://www.youtube.com/watch?v=etM4Ep6Ip2I)
 
 
 ### Physics based
